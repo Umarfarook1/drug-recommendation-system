@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Test / lint / type caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Data + models (never commit)
+data/
+models/
+checkpoints/
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.csv
+*.parquet
+mlruns/
+
+# Logs + temp
+*.log
+*.tmp
+
+# Environment + secrets
+.env*
+!.env.example
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
