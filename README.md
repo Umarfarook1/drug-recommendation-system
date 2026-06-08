@@ -127,3 +127,11 @@ MIT, see [`LICENSE`](LICENSE).
 
 **Umarfarook Gurramkonda** &middot; AI Engineer
 [GitHub](https://github.com/Umarfarook1) &middot; [Portfolio](https://umarfarook-ai.vercel.app)
+
+## Installation
+
+```bash
+git clone https://github.com/Umarfarook1/drug-recommendation-system
+cd drug-recommendation-system
+pip install -r requirements.txt
+```
