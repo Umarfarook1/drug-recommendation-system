@@ -135,3 +135,11 @@ git clone https://github.com/Umarfarook1/drug-recommendation-system
 cd drug-recommendation-system
 pip install -r requirements.txt
 ```
+
+## Usage
+
+Basic usage of drug-recommendation-system:
+
+```bash
+python -m drug-recommendation-system --help
+```
