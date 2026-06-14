@@ -143,3 +143,9 @@ Basic usage of drug-recommendation-system:
 ```bash
 python -m drug-recommendation-system --help
 ```
+
+## Roadmap
+
+- [ ] Core functionality
+- [ ] Tests and CI
+- [ ] Documentation and examples
